@@ -56,11 +56,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut" />
 </a>-->
-
  
 <div align="left">
   <a href="http://www.github.com/vitoralvs"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=vitoralvs&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
-  <a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoralvs&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  
   <a href="http://www.github.com/vitoralvs"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoralvs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
