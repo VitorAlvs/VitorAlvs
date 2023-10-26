@@ -1,3 +1,4 @@
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorAlvs)](https://github.com/anuraghazra/github-readme-stats)-->
 <div align="left">
   <img height="150" src="https://th.bing.com/th/id/OIG.L5._1Zldlf08zFqZ5nZ1?pid=ImgGn"  />
   
