@@ -1,8 +1,5 @@
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorAlvs)](https://github.com/anuraghazra/github-readme-stats)-->
 <div align="left">
   <img height="150" src="https://th.bing.com/th/id/OIG.L5._1Zldlf08zFqZ5nZ1?pid=ImgGn"  />
-  
-  
 </div>
 
 ###
@@ -59,11 +56,17 @@
 </a>-->
  
 <div align="left">
+  <a href="http://www.github.com/vitoralvs"><img width="37%" src="https://github-readme-stats.vercel.app/api?username=VitorAlvs&show_icons=true&theme=github_dark&hide_border=true"/></a>
+  <a href="http://www.github.com/vitoralvs"><img width="36%" src="https://github-readme-stats.vercel.app/api/wakatime?username=VitorAlvs&theme=github_dark&hide_border=true"/></a>
+  <a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="26.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut&hide_border=true"/></a>
   
-  <a href="http://www.github.com/vitoralvs"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=VitorAlvs&show_icons=true&theme=github_dark&hide_border=true"/></a>
-  <a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut&hide_border=true"/></a>
   <!--<a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoralvs&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>-->
+  
   <a href="http://www.github.com/vitoralvs"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoralvs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+</div>
+
+<div align="left">
+  
 </div>
 
 
