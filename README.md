@@ -1,26 +1,34 @@
-<div align="left">
+<div align="center">
   <img height="150" src="https://th.bing.com/th/id/OIG.L5._1Zldlf08zFqZ5nZ1?pid=ImgGn"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaovtsantos/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a> 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=16hnavg4f5tmz3ot7h3meudeq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
-<h1 align="left">Olá 👋</h1>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VitorAlvs.VitorAlvs&"  />
+</div>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=16hnavg4f5tmz3ot7h3meudeq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"  />
+</div>
 
 ###
 
-  
-<!--<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
--->
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -41,46 +49,23 @@
 
 ###
 
-<h3 align="left">🔥   My Stats </h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VitorAlvs&theme=github-dark&hide_border=true&mode=weekly&sideLabels=CECECE&fire=1F6FEB&ring=4581C5&currStreakLabel=CECECE&dates=4581C5&stroke=4581C5" alt="GitHub Streak" width=70%/></a>
+</div>
+
 ###
-
-
-<!--<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false&Background=0D1117&Border=CECECE">    
-  <img  alt="VitorALvs's GitHub Stats" height=200 align="left"  src="https://awesome-github-stats.azurewebsites.net/user-stats/VitorALvs?cardType=github&theme=github-dark&preferLogin=false&Background=0D1117&Border=CECECE&Ring=539BF5" />  
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut" />
-</a>-->
- 
-<div align="left">
+<div align="center">
   <a href="http://www.github.com/vitoralvs"><img width="35%" src="https://github-readme-stats.vercel.app/api?username=VitorAlvs&show_icons=true&theme=github_dark&hide_border=true"/></a>
   <a href="http://www.github.com/vitoralvs"><img width="35%" src="https://github-readme-stats.vercel.app/api/wakatime?username=VitorAlvs&theme=github_dark&hide_border=true"/></a>
   <a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="26.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut&hide_border=true"/></a>
-  
-  <!--<a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoralvs&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>-->
-  
-  <a href="http://www.github.com/vitoralvs"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoralvs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
-<div align="left">
-  
-</div>
+###
 
+<img src="https://raw.githubusercontent.com/VitorAlvs/VitorAlvs/output/snake.svg" alt="Snake animation" />
 
-<!--
-**VitorAlvs/VitorAlvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
