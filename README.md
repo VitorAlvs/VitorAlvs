@@ -64,8 +64,8 @@
   <a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="26.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut&hide_border=true"/></a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/VitorAlvs/VitorAlvs/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+
