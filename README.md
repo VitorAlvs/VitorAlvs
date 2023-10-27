@@ -65,7 +65,5 @@
 </div>
 
 
-![snake gif](https://github.com/VitorAlvs/VitorAlvs/blob/output/github-contribution-grid-snake.svg)
-
 
 
