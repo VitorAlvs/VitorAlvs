@@ -55,9 +55,9 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VitorAlvs&theme=github-dark&hide_border=true&mode=weekly&sideLabels=CECECE&fire=1F6FEB&ring=4581C5&currStreakLabel=CECECE&dates=4581C5&stroke=4581C5" alt="GitHub Streak" width=70%/></a>
-</div>
+</div>-->
 
 ###
 <div align="center">
