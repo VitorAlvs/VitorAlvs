@@ -15,6 +15,15 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VitorAlvs.VitorAlvs&"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://wakatime.com/@018b54f5-99f0-4cb0-9895-5290bc65f4ca"><img src="https://wakatime.com/badge/user/018b54f5-99f0-4cb0-9895-5290bc65f4ca.svg" alt="Total time coded since Oct 21 2023" /></a>
+</div>
+
+###
+
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=16hnavg4f5tmz3ot7h3meudeq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"  />
 </div>
