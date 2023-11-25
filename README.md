@@ -70,8 +70,8 @@
 
 ###
 <div align="center">
-  <a href="http://www.github.com/vitoralvs"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=VitorAlvs&show_icons=true&theme=github_dark&hide_border=true"/></a>
-  <a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut&hide_border=true"/></a>
+  <a href="http://www.github.com/vitoralvs"><img width="52%" src="https://github-readme-stats.vercel.app/api?username=VitorAlvs&show_icons=true&theme=github_dark&hide_border=true"/></a>
+  <a href="http://www.github.com/vitoralvs"><img alt="TYP Top Language" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvs&theme=github_dark&card_width=320&layout=donut&hide_border=true"/></a>
 </div>
 
 
